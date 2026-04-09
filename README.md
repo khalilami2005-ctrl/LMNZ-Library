@@ -2,6 +2,8 @@
 
 A full-stack Library Management System built with **ASP.NET Core** and a **Spectre.Console** terminal interface.
 
+<img width="1015" height="835" alt="image" src="https://github.com/user-attachments/assets/374bdfa3-4085-4389-8ead-257ae71c2a72" />
+
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-13-239120?logo=csharp)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Express-CC2927?logo=microsoftsqlserver)
