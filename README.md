@@ -15,7 +15,7 @@ A full-stack Library Management System built with **ASP.NET Core** and a **Spect
 - **RESTful API** — Clean API with Swagger documentation
 - **Global Error Handling** — Middleware-based exception management
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 LibraryAPI (Backend)          LibraryCLI (Frontend)
