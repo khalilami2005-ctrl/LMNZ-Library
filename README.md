@@ -1,4 +1,4 @@
-# 📚 LMNZ Library
+#  LMNZ Library
 
 A full-stack Library Management System built with **ASP.NET Core** and a **Spectre.Console** terminal interface.
 
@@ -6,7 +6,7 @@ A full-stack Library Management System built with **ASP.NET Core** and a **Spect
 ![C#](https://img.shields.io/badge/C%23-13-239120?logo=csharp)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Express-CC2927?logo=microsoftsqlserver)
 
-## ✨ Features
+##  Features
 
 - **Books Management** — Add, update, list, and delete books
 - **Users Management** — Register, update, and remove users with email validation
@@ -30,7 +30,7 @@ The project follows a **Client-Server architecture**:
 - **LibraryAPI**: ASP.NET Core Web API with Entity Framework Core and SQL Server Express
 - **LibraryCLI**: Terminal-based UI client using Spectre.Console
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ The project follows a **Client-Server architecture**:
 
 Or simply double-click `Avvia_Libreria.bat` to launch both automatically!
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── Controllers/          # API endpoints (Books, Users, Loans)
@@ -79,7 +79,7 @@ Or simply double-click `Avvia_Libreria.bat` to launch both automatically!
 └── Avvia_Libreria.bat    # One-click launcher
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer      | Technology              |
 |------------|-------------------------|
@@ -89,10 +89,10 @@ Or simply double-click `Avvia_Libreria.bat` to launch both automatically!
 | Frontend   | Spectre.Console (CLI)   |
 | API Docs   | Swagger / OpenAPI       |
 
-## 👤 Author
+##  Author
 
 **Lmnz** — [@khalilami2005-ctrl](https://github.com/khalilami2005-ctrl)
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
